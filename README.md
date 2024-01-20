@@ -3,7 +3,7 @@
 Examples of three batch process data alignment algorithms are shown.
 [*Work in progress*]
 
-Credit for the dataset goes to Salvador Garcia Muñoz, link: https://github.com/salvadorgarciamunoz/pyphi
+Credit for the dataset goes to Salvador Garcia Muñoz (2023), retrieved from https://github.com/salvadorgarciamunoz/pyphi
 
 
 Reference: 
