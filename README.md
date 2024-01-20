@@ -291,8 +291,8 @@ PlotUnalignedTrajectories()
 ```
 
 
-![png](README_files/Batch_data_alignment_6_0.png)
-
+    
+![png](README_files/README_6_0.png)
     
 
 
@@ -325,55 +325,55 @@ for i in variables[1:]:
 
 
     
-![png](README_files/Batch_data_alignment_10_0.png)
+![png](README_files/README_10_0.png)
     
 
 
 
     
-![png](README_files/Batch_data_alignment_10_1.png)
+![png](README_files/README_10_1.png)
     
 
 
 
     
-![png](README_files/Batch_data_alignment_10_2.png)
+![png](README_files/README_10_2.png)
     
 
 
 
     
-![png](README_files/Batch_data_alignment_10_3.png)
+![png](README_files/README_10_3.png)
     
 
 
 
     
-![png](README_files/Batch_data_alignment_10_4.png)
+![png](README_files/README_10_4.png)
     
 
 
 
     
-![png](README_files/Batch_data_alignment_10_5.png)
+![png](README_files/README_10_5.png)
     
 
 
 
     
-![png](README_files/Batch_data_alignment_10_6.png)
+![png](README_files/README_10_6.png)
     
 
 
 
     
-![png](README_files/Batch_data_alignment_10_7.png)
+![png](README_files/README_10_7.png)
     
 
 
 
     
-![png](README_files/Batch_data_alignment_10_8.png)
+![png](README_files/README_10_8.png)
     
 
 
@@ -698,61 +698,61 @@ for i in variables:
 
 
     
-![png](README_files/Batch_data_alignment_16_0.png)
+![png](README_files/README_16_0.png)
     
 
 
 
     
-![png](README_files/Batch_data_alignment_16_1.png)
+![png](README_files/README_16_1.png)
     
 
 
 
     
-![png](README_files/Batch_data_alignment_16_2.png)
+![png](README_files/README_16_2.png)
     
 
 
 
     
-![png](README_files/Batch_data_alignment_16_3.png)
+![png](README_files/README_16_3.png)
     
 
 
 
     
-![png](README_files/Batch_data_alignment_16_4.png)
+![png](README_files/README_16_4.png)
     
 
 
 
     
-![png](README_files/Batch_data_alignment_16_5.png)
+![png](README_files/README_16_5.png)
     
 
 
 
     
-![png](README_files/Batch_data_alignment_16_6.png)
+![png](README_files/README_16_6.png)
     
 
 
 
     
-![png](README_files/Batch_data_alignment_16_7.png)
+![png](README_files/README_16_7.png)
     
 
 
 
     
-![png](README_files/Batch_data_alignment_16_8.png)
+![png](README_files/README_16_8.png)
     
 
 
 
     
-![png](README_files/Batch_data_alignment_16_9.png)
+![png](README_files/README_16_9.png)
     
 
 
@@ -810,7 +810,7 @@ DTW_alignment_plot()
 
 
     
-![png](README_files/Batch_data_alignment_20_0.png)
+![png](README_files/README_20_0.png)
     
 
 
@@ -853,7 +853,7 @@ RDDTW_alignment_plot()
 
 
     
-![png](README_files/Batch_data_alignment_22_0.png)
+![png](README_files/README_22_0.png)
     
 
 
@@ -896,7 +896,7 @@ effects_of_increasing_P()
 
 
     
-![png](README_files/Batch_data_alignment_24_0.png)
+![png](README_files/README_24_0.png)
     
 
 
