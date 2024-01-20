@@ -1,5 +1,3 @@
-https://github.com/imanol-arzac/Batch-process-data-alignment-algorithms/blob/main/Batch_data_alignment.ipynb
-
 # **Batch Process Data Alignment Algorithms**
 
 Use of chemometric algorithms requires that batch process data be first aligned, so as to obtain a square tridimensional matrix. Examples of three batch process data alignment algorithms are shown on this repository.
