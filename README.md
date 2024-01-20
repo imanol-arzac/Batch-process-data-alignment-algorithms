@@ -291,7 +291,7 @@ PlotUnalignedTrajectories()
 ```
 
 
-\includegraphics[]{README_files/Batch_data_alignment_6_0.png}
+![png](README_files/Batch_data_alignment_6_0.png)
 
     
 
